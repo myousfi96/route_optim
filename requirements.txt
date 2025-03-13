@@ -1,0 +1,9 @@
+Flask
+SQLAlchemy
+scikit-learn
+pydantic
+streamlit
+folium
+streamlit-folium
+pytest
+pandas
